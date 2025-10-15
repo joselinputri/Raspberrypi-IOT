@@ -123,9 +123,8 @@ Jarak: 91.64 cm
 
 | Tampilan | Gambar |
 |-----------|--------|
-| Rangkaian HC-SR04 terhubung ke Raspberry Pi | ![Setup 1](./WhatsApp%20Image%202025-10-15%20at%2011.27.42.jpeg) |
-| Sudut lain rangkaian | ![Setup 2](./WhatsApp%20Image%202025-10-15%20at%2011.27.43.jpeg) |
-| Hasil pembacaan di terminal | ![Terminal Output](./WhatsApp%20Image%202025-10-15%20at%2011.28.42.jpeg) |
+| **Rangkaian HC-SR04 terhubung ke Raspberry Pi** | <img src="./1.jpeg" alt="Rangkaian HC-SR04" width="400"/> |
+| **Hasil pembacaan di terminal (Output)** | <img src="./2.jpeg" alt="Output Terminal" width="400"/> |
 
 ---
 
