@@ -1,6 +1,6 @@
 # Raspberrypi-IOT
 # 📑 Laporan Resmi
-**Proyek:** Monitoring Jarak dengan Sensor Ultrasonik & ESP32, Upload Data ke ThingSpeak  
+**Proyek:** Monitoring Jarak dengan HC-SRO4 menggunakan Raspberrypi
 
 ---
 
