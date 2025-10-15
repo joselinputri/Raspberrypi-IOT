@@ -39,6 +39,11 @@ Proyek ini bertujuan untuk memahami cara kerja sensor ultrasonik dalam mengukur 
 
 ## 💻 Kode Program – `sensor_jarak.py`
 
+Masuk ke terminal Raspberry Pi dan ketik perintah berikut:
+```bash
+nano sensor_jarak.py
+```
+
 ```python
 import RPi.GPIO as GPIO
 import time
