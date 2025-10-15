@@ -21,8 +21,7 @@ Proyek ini bertujuan untuk memahami cara kerja sensor ultrasonik dalam mengukur 
 
 ## 🧰 Alat dan Bahan
 - Raspberry Pi (Model 3/4/5)  
-- Sensor Ultrasonik **HC-SR04**  
-- Breadboard  
+- Sensor Ultrasonik **HC-SR04**   
 - Kabel jumper (female-to-female)  
 - Aplikasi terminal 
 ---
