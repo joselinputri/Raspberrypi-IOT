@@ -42,6 +42,7 @@ Masuk ke terminal Raspberry Pi dan ketik perintah berikut:
 ```bash
 nano sensor_jarak.py
 ```
+Salin kode berikut pada file ``` sensor_jarak.py ```
 
 ```python
 import RPi.GPIO as GPIO
